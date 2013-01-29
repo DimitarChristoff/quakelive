@@ -1,0 +1,197 @@
+unbindall
+
+r_smp 1
+// Punkbuster
+
+seta cl_punkbuster	"1"
+seta pb_system		"1"
+seta pb_security	"0"
+seta pb_sleep		"500"
+seta pb_cl_enable	"1"
+
+// net settings
+seta rate           25000
+seta snaps          40  // let osp cap snaps to value of sv_fps
+seta cl_maxpackets  125 // leased line, need BW for this
+seta cl_packetdup   0   // duplicate packet checksums 5 times to avoid any PL
+seta cl_nodelta     0
+
+
+// imported
+// cg_hudfiles     "ui/emsixteen.cfg"  // My HUD!
+cg_hudfiles     "ui/xpk_hud_2.cfg"
+loadhud
+
+cg_kickscale    "0"                 // Stops the screen from shaking when taking damage
+cg_bob          "0"                 // Makes your screen stay straight when jumping and hitting the ground
+cg_levelTimerDirection "1"         // 0 = up, 1 = down
+cg_newWeaponBar     "0"
+s_ambient       "0"         // Removes ambient sounds like rain on qztourney7
+s_musicvolume   "0"         // Nobody wants that music..
+cg_railTrailTime "1500"
+cg_crosshairpulse "0"
+
+
+// duck / team msgs
+// bind CTRL    "say_team ^1>>>^7 ^1YOU ^7take!!!"
+bind ALT    +movedown
+
+
+// net settings, used by pressing numlock to toggle between them, if playing on a euro server
+bind kp_numlock "vstr net1"
+set         net1        "cl_timenudge -15; snaps 60; cl_maxpackets 125; rate 25000; cl_nodelta 1; cl_packetdup 0; echo ^3TIMENUDGE -15; echo ^2SNAPS 60; echo CL_MAXPACKETS 125; echo RATE 25000; bind kp_numlock vstr net2; echo ^3next change: ^5LOW BAND ^7SETTINGS";
+set         net2        "cl_timenudge -15; snaps 40; cl_maxpackets 125; rate 12500; cl_nodelta 0; cl_packetdup 2; echo ^3TIMENUDGE -15; echo ^2SNAPS 40; echo CL_MAXPACKETS 125; ECHO rate 12500; bind kp_numlock vstr net1; echo ^3next change: ^5LOW BAND ^7SETTINGS";
+
+// toggle for my middle mouse button between 'taken item' and 'use' for ctf2.
+bind kp_slash   "vstr tookitem"
+set         useitem     "bind mouse4 +button2; echo ^2enabled ^4ITEM USE; bind kp_slash vstr tookitem"
+set         tookitem    "bind mouse4 say_team ^1>>>^7 TAKEN ^3; echo ^2enabled ^4ITEM TAKEN; bind kp_slash vstr useitem"
+
+// ctf tactical calls for changing squad formation, use 8 to select a formation and 9 to call it.
+bind 8      "vstr formation1"
+set formation1  "echo formation: ^31-1-3; bind 9 say_team ^1>^2>^3> ^7MOVE TO: ^31-1-3; bind 8 vstr formation2";
+set formation2  "echo formation: ^32-1-2; bind 9 say_team ^1>^2>^3> ^7MOVE TO: ^12-1-2; bind 8 vstr formation3";
+set formation3  "echo formation: ^32-3; bind 9 say_team ^1>^2>^3> ^7MOVE TO: ^22-3; bind 8 vstr formation4";
+set formation4  "echo formation: ^32-3; bind 9 say_team ^1>^2>^3> ^7MOVE TO: ^61-2-2; bind 8 vstr formation1";
+
+// teamplay binds, CTF
+// powerup related
+bind =      "say_team ^1>>>^7 ^1get ^7POWERUP ^1now!"
+bind ]      "say_team ^1>>>^7 we are quad / POWERUP ended"
+bind e      "say_team ^1>>>^7 N.M.E ^1REGEN"
+bind q      "say_team ^1>>>^7 N.M.E ^4QUAD"
+bind w      "say_team ^1>>>^7 N.M.E ^5NUKE INCOMMING"
+// bind ALT "say_team ^1>>>^7 ^1get ^4QUAD^7/^3HASTE"
+
+// attack related, light blue ident >>>
+bind a      "say_team ^5>>>^7 ATTACKING"
+bind v      "say_team ^5>>>^7 RUSH ^4MID^7 for FC passage"
+bind \      "say_team ^5>>>^7 RUSH enemy base in ^410 secs"
+bind z      "say_team ^5>>>^7 WAITING FOR HELP ^4#l"
+bind kp_HOME   "say_team ^1>>>^7 HELP NEED/AVAIL ^1low ^7#L"
+bind kp_END    "say_team ^1>>>^7 HELP NEED/AVAIL ^6high ^7#L"
+
+// info based / misc
+// base related, leaving/coming attackers
+bind x      "say_team ^1>>>^7 LOST ^3BASE"
+bind c      "say_team ^3>>>^7 SAFE ^3BASE"
+bind kp_pgdn    "say_team ^1>>>^7 IN/OUT ^1low"
+bind kp_pgup    "say_team ^1>>>^7 IN/OUT ^1high"
+
+// personal status / info
+bind y      "say_team ^3>>>^7 YES / ON WAY"
+bind [      "say_team ^3>>>^7 NO / CAN'T MAKE IT" //'
+bind BACKSPACE  "kill"
+bind s      "say_team ^3>>>^7 ^3H:#h A:#a #w"
+
+// positional info
+bind b      "say_team ^1>>>^7 DIED near, ^7area ^1LOST"
+bind m      "say_team ^1>>>^7 LOST AREA, ^1UNSAFE"
+bind n      "say_team ^3>>>^7 ^3SECURED"
+bind ENTER  dropflag
+bind BACKSPACE droppowerup
+
+
+// sharing items
+bind g      "say_team ^1>>>^7 FREE ITEM HERE"
+bind uparrow "say_team ^1>>>^7 ^1YOU ^7take!!!"
+bind downarrow dropweapon
+bind leftarrow "say_team ^3>>>^7 AVAILABLE";
+
+// hurt enemies
+bind SHIFT  "say_team ^1>>>^7 ENEMY ^1LOW ON HEALTH"
+
+// personal positioning, for when helping in base, etc.
+bind PGDN   "say_team ^3>>>^7 SWAP ME here now"
+bind PGUP   "say_team ^3>>>^7 is MY AREA now"
+
+// generic binds, info etc
+bind ESCAPE     "togglemenu"
+bind t      "messagemode"
+bind r      "messagemode2"
+bind `      "toggleconsole"
+bind TAB    "+scores"
+bind 1      "+acc"
+bind 2      "topshots"
+bind 3      "stat"
+bind 4      "players"
+
+set soundOn "s_volume 0.1;echo SOUND ON;bind PAUSE vstr soundOff"
+set soundOff "s_volume 0;echo SOUND OFF;bind PAUSE vstr soundOn"
+bind PAUSE  "vstr soundOff"
+
+bind F1     "vote yes"
+bind F2     "vote no"
+bind F3     "readyup"
+bind F4     "toggle r_fastsky" // for w2 and dm7 gateways see-through
+bind F5     "team r"
+bind F6     "team b"
+bind F7     "team a"
+bind F8     "in_restart"
+bind F9     "vid_restart"
+bind F10    "toggle r_vertexlight;vid_restart"
+bind F11    "stoprecord"`
+bind F12    "screenshotjpeg"
+
+// suicide with a message in case dropping flag
+bind *      "kill; say_team ^3>>> ^7SUICIDE"
+
+// weapon binds, all with gun drawn cept for rl. can also add alterating FOVs here
+set w1      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 1; set lw vstr w1"
+set w2      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 2; set lw vstr w2"
+set w3      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 3; set lw vstr w3"
+set w4      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 4; set lw vstr w4"
+set w5      "m_pitch 0.0220; cg_drawgun 0; cg_drawcrosshair 13; cg_fov 125; weapon 5; set lw vstr w5"       // RL = hide weapon
+set w6      "m_pitch 0.0154; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 120; weapon 6; set lw vstr w6"        // shaft
+set w7      "m_pitch 0.0154; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 7; set lw vstr w7"       // rail
+set w8      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 8; set lw vstr w8"       // plasma
+set w9      "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 9; set lw vstr w9"
+set w10     "m_pitch 0.0220; cg_drawgun 2; cg_drawcrosshair 13; cg_fov 115; weapon 10; set lw vstr w10"
+
+bind .      "vstr w7"
+bind /      "vstr w5"
+bind 0      "vstr w1"
+bind 5      "vstr w5"
+bind 6      "vstr w6"
+bind 7      "vstr w7"
+bind :      "vstr w10"
+bind SEMICOLON  "vstr w6"
+bind i      "vstr w8"
+bind o      "vstr w3"
+bind h      "vstr w2"
+bind u      "weapon 4;wait 100;+attack;wait 10;-attack;vstr lw"  // quick grenade
+
+// movement and shoot
+bind j      "+moveleft"
+bind k      "+back"
+bind l      "+moveright"
+bind SPACE  "+moveup"
+bind MOUSE1     "+attack"
+bind MOUSE2     "+forward"
+bind MOUSE3     "+button2"
+bind MWHEELDOWN "weapprev"
+bind MWHEELUP   "weapnext"
+
+// model and team model colours
+cg_forceTeamModel	"biker"
+cg_forcemodel		"1"
+// color "4444"
+color1 "1"
+color2 "1"
+cg_enemyColors "33322"
+cg_enemyModel "keel/bright"
+
+
+seta com_allowConsole "1"
+// r_enablePostProcess 0
+//r_vertexLight 1
+r_subdivisions 50
+// r_mode 5
+cg_weaponColor 0x0000ff
+cg_weaponColorStyle 2
+cl_allowConsoleChat 1
+cg_impactSparks 0
+
+
+set nopb "pb_sleep 500;pb_security 0;echo Fixed Punkbuster"
+bind 4 "vstr nopb"

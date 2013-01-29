@@ -1,0 +1,78 @@
+#include "ui/menudef.h"
+
+// crosshair extender
+menuDef {
+    name "crossharExtenderBig"
+    fullScreen MENU_FALSE
+    visible MENU_TRUE
+    rect 0 0 640 480
+
+	itemDef {
+      	name "verticalLine1"
+		visible 1
+		rect 319.5 38 0.5 185
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+
+		itemDef {
+      	name "verticalLine2"
+		visible 1
+		rect 319.5 257 0.5 120
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+	
+	itemDef {
+      	name "horisontalLine1"
+		visible 1
+		rect 28 239.5 275 0.5
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+	itemDef {
+      	name "horisontalLine2"
+		visible 1
+		rect 337 239.5 275 0.5
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+}
+
+menuDef {
+    name "crossharExtenderSmall"
+    fullScreen MENU_FALSE
+    visible MENU_TRUE
+    rect 0 0 640 480
+
+	itemDef {
+      	name "verticalLine1"
+		visible 1
+		rect 319.5 193 0.5 30
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+
+		itemDef {
+      	name "verticalLine2"
+		visible 1
+		rect 319.5 257 0.5 30
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+	
+	itemDef {
+      	name "horisontalLine1"
+		visible 1
+		rect 273 239.5 30 0.5
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+	itemDef {
+      	name "horisontalLine2"
+		visible 1
+		rect 337 239.5 30 0.5
+		style WINDOW_STYLE_FILLED
+		backcolor 1 1 1 0.10	
+	}
+}

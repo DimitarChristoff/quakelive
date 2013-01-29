@@ -1,0 +1,179 @@
+#include "ui/menudef.h"
+
+//	AMMO
+menuDef {
+	name "Ammo"
+	fullScreen MENU_FALSE
+	visible MENU_TRUE
+	rect 295 420 95 26
+	
+	itemDef {
+		name "i"
+		rect 19 -6 12 12
+		visible 1
+		decoration
+		ownerdraw CG_PLAYER_AMMO_ICON2D
+	}
+	
+	itemDef {
+		name "a"
+		rect 0 -2 50 22
+		visible 1
+		textalign 0
+		decoration
+		textstyle 3
+		forecolor 1 1 1 0.8
+		textscale .22
+		ownerdraw CG_PLAYER_AMMO_VALUE
+		addColorRange -999 5 1 0 0 1
+	}
+}
+
+
+
+
+//	HEALTH
+menuDef {
+	name "Player"
+	fullScreen MENU_FALSE
+	visible MENU_TRUE
+	rect 225 420 100 26
+
+	itemDef {
+		name "a"
+		rect 0 0 14 16
+		visible 0
+		decoration
+		ownerdraw CG_PLAYER_HEAD		
+	}
+
+	itemDef {
+		name "health"
+		rect 0 0 16 16
+		//ownerdraw CG_TEAM_COLORIZED
+		backcolor 1 1 1 0.5
+		visible 1
+		decoration
+		style 1
+		background "ui/assets/hud/health.tga"
+	}	
+	itemDef {
+		name "healthok"
+		rect 24 -6 45 22
+		visible 1
+		textalign 0
+		decoration
+		textstyle 3
+		forecolor 1 1 1 0.75
+		textscale .42
+		ownerdraw CG_PLAYER_HEALTH
+		addColorRange -999 25 1 0 0 1
+	//	addColorRange 26 100 1 .75 0 1
+	//	addColorRange 101 999 1 1 1 1
+	}
+}
+
+
+//	ARMOR
+menuDef {
+		name "Armor"
+		fullScreen MENU_FALSE
+		visible MENU_TRUE	
+		rect 346 420 95 26  //rect 346 420 95 26
+
+
+	itemDef {
+		name "a"
+		//rect 52 -14 16 21
+		rect 52 0 16 16
+		visible 1
+		style 1
+		decoration
+		//ownerdraw CG_PLAYER_ARMOR_ICON2D
+		backcolor 1 1 1 0.5
+		background "ui/assets/hud/armor.tga"
+	}
+	
+	itemDef {
+		name "armor2"
+		rect 0 -6 45 22
+		visible 1
+		decoration
+		textstyle 3	
+		textscale .42
+		textalign 3
+		forecolor 1 1 1 0.75
+		ownerdraw CG_PLAYER_ARMOR_VALUE 
+	    addColorRange -999 25 1 .75 0 0.5
+//    	addColorRange 26 100  1 .75 0 1
+//    	addColorRange 101 999 1 0.5 0.5 1
+	}
+}
+
+//	ACCURACY
+menuDef {
+		name "Accuracy"
+		fullScreen MENU_FALSE
+		visible MENU_TRUE
+		rect 585 416 95 26
+		
+		
+  		itemDef {
+			name "medal_accuracy"
+			ownerdraw CG_SELECTED_PLYR_ACCURACY
+			decoration
+			visible 1
+			rect 4 17 24 7
+			style 1
+			visible MENU_TRUE
+			forecolor 1 1 1 0.6
+			textscale 0.22
+			textstyle 2
+			addColorRange 0 15 1 0 0 1
+		}  
+		
+ 		itemDef {
+			name "accuracy_medal"		
+			decoration
+			visible 1
+			ownerdraw CG_ACCURACY
+			rect 34 4 16 16
+//			textstyle 2
+			textscale 0.0
+//			forecolor 1 1 1 0.4
+			backcolor 1 1 1 0.4
+			background "ui/assets/medal_accuracy.png"
+		}
+}
+
+
+// TEAM INDICATOR
+menuDef {
+	name "RedFrameTeam"
+	fullScreen MENU_FALSE
+	visible MENU_TRUE	
+	rect 0 450 640 48
+	ownerdrawflag CG_SHOW_ANYTEAMGAME
+	
+	itemDef {
+		name "team_shader"
+		rect 0 0 640 32
+		visible 1
+		ownerdrawflag CG_SHOW_IF_PLYR_IS_ON_BLUE
+		decoration
+		backcolor 0 0 1 0.15
+		style 1
+		background "ui/assets/hud/chatm.tga"
+	}
+
+	itemDef {
+		name "team_shader"
+		rect 0 0 640 32
+		visible 1
+		ownerdrawflag CG_SHOW_IF_PLYR_IS_ON_RED
+		decoration
+		backcolor 1 0 0 0.15
+		style 1
+		background "ui/assets/hud/chatm.tga"
+	}
+}

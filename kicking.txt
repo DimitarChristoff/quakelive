@@ -1,0 +1,420 @@
+(0x120e7938 - 35 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney6.pk3
+(0x529fd8bb - 30 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney5.pk3
+(0xcaa5ff6c - 39 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney4.pk3
+(0x93185265 - 59 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney3.pk3
+(0xcb803e74 - 40 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney2.pk3
+(0x61255b2d - 43 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qztourney1.pk3
+(0x1f3aa85b - 29 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzteam7.pk3
+(0x29e0abe1 - 57 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzteam6.pk3
+(0xf8cddc1b - 51 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzteam4.pk3
+(0x0608c650 - 50 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzteam3.pk3
+(0x024b0534 - 48 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzteam1.pk3
+(0x7fb588b1 - 61 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm9.pk3
+(0x4bd20dfd - 64 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm8.pk3
+(0x532c9169 - 74 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm7.pk3
+(0xf52c1c2d - 81 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm6.pk3
+(0xb4a8ae74 - 39 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm5.pk3
+(0x1c4d83c6 - 47 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm4.pk3
+(0xe8b6ed1c - 31 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm3.pk3
+(0xfc3ff84a - 38 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm20.pk3
+(0xc254c026 - 37 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm2.pk3
+(0x539eb8da - 53 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm19.pk3
+(0x16cee9dc - 36 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm18.pk3
+(0xb4c0172b - 37 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm17.pk3
+(0x845d47e8 - 20 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm16.pk3
+(0xca86812b - 31 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm15.pk3
+(0xc6f55ad9 - 48 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm14.pk3
+(0x654e7812 - 55 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm13.pk3
+(0x38a11e9a - 40 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm12.pk3
+(0x626ef61b - 62 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm11.pk3
+(0x48c507de - 92 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm10.pk3
+(0xe7e6a29d - 58 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzdm1.pk3
+(0x6b19edab - 49 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf9.pk3
+(0xee045b47 - 37 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf8.pk3
+(0x366d7ed2 - 31 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf7.pk3
+(0x421c7a4d - 37 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf6.pk3
+(0xcc81064f - 71 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf4.pk3
+(0x3130b7ec - 22 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf3.pk3
+(0x2c83622f - 49 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf2.pk3
+(0x533a115f - 77 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzctf1.pk3
+(0x478b2a34 - 48 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzca2.pk3
+(0xdfcb9e21 - 34 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\qzca1.pk3
+(0xaef86991 - 31 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak50.pk3
+(0xc2520044 - 35 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak17.pk3
+(0x05d8e7b3 - 1 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak15.pk3
+(0x11fc3bd6 - 208 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak14.pk3
+(0xc0c49e94 - 738 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak13.pk3
+(0x85bc9f35 - 32 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak12.pk3
+(0x677ae57f - 322 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak11.pk3
+(0x6f07f697 - 1055 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak10.pk3
+(0x37618299 - 111 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak06.pk3
+(0x375ac391 - 6 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak05.pk3
+(0x8b2f4552 - 38 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak04.pk3
+(0x7e850a31 - 4 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak03.pk3
+(0xf0941fc9 - 3 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak02.pk3
+(0x8c976042 - 9 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak01.pk3
+(0x8a43d5de - 28 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\pak00.pk3
+(0xc28b0c91 - 1229 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive\baseq3\bin.pk3
+(0x1a4a85b5 - 11 files)
+C:\Users\coda\AppData\LocalLow\id Software\quakelive/baseq3
+
+----------------------
+5908 files in pk3 files
+WARNING: couldn't open music file music/track06.ogg
+PunkBuster Client: PnkBstrA successfully loaded PnkBstrB
+PunkBuster Client: WARNING: PB Kicks for Non-standard Characters and Level 1
+PB Restrictions on this Server
+PunkBuster Client: PB Server assigned guid = d0494820d734868e8f1b9957aa07ad54
+PunkBuster Client: Receiving from PB Server (l v1.645 | A1354 C2.177)
+coda is the new team leader
+coda entered the game
+*iON aNtii was electrocuted by poc! daySRKT
+PunkBuster Client: PnkBstrB service installed and started successfully
+fuv.. chentr was electrocuted by poc! daySRKT
+Poy59 connected
+*iON aNtii was electrocuted by coda
+Poy59 entered the game
+poc! daySRKT ate fuv.. chentr's rocket
+*iON aNtii called a vote.
+Vote cast.
+coda almost dodged Poy59's rocket
+Vote passed.
+coda was kicked
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Mobility Radeon HD 3470
+GL_VERSION: 2.1.7276 Release
+GL_EXTENSIONS: GL_AMD_performance_monitor GL_ARB_depth_texture
+GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader
+GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite
+GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow
+GL_ARB_shadow_ambient GL_ARB_texture_border_clamp GL_ARB_texture_compression
+GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_non_power_of_two
+GL_ARB_texture_rectangle GL_ARB_transpose_matrix GL_ARB_vertex_buffer_object
+GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_window_pos
+GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader
+GL_ATI_meminfo GL_ATI_separate_stencil GL_ATI_texture_compression_3dc
+GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_bgra
+GL_EXT_blend_color GL_EXT_blend_func_separate GL_EXT_blend_minmax
+GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_texture
+GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB GL_EXT_gpu_program_parameters
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_pixels
+GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color
+GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_wrap
+GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D
+GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map
+GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object
+GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_vertex_array
+GL_KTX_buffer_region GL_NV_blend_square GL_NV_texgen_reflection
+GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod
+GL_WIN_swap_hint WGL_EXT_swap_control
+GL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 8
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+MODE: 5, 640 x 480 fullscreen hz:60
+GAMMA: software w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: gl_nearest
+picmip: 5
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+Forcing glFinish
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 480 milli seconds
+UI menu load time = 242 milli seconds
+34 bots parsed
+PunkBuster Client: Not Connected to a Server
+WARNING: couldn't load sound: sound/misc/tim_pump.wav
+WARNING: could not find sound/misc/tim_pump.wav - using default
+]\reconnect
+Resolving update.quake3arena.com
+update.quake3arena.com resolved to 192.246.40.56:27951
+213.163.65.219:27000 resolved to 213.163.65.219:27000
+PunkBuster Client: Connected to Server 213.163.65.219:27000
+Waiting on XMPP authentication.RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Mobility Radeon HD 3470
+GL_VERSION: 2.1.7276 Release
+GL_EXTENSIONS: GL_AMD_performance_monitor GL_ARB_depth_texture
+GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader
+GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite
+GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow
+GL_ARB_shadow_ambient GL_ARB_texture_border_clamp GL_ARB_texture_compression
+GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_non_power_of_two
+GL_ARB_texture_rectangle GL_ARB_transpose_matrix GL_ARB_vertex_buffer_object
+GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_window_pos
+GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader
+GL_ATI_meminfo GL_ATI_separate_stencil GL_ATI_texture_compression_3dc
+GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_bgra
+GL_EXT_blend_color GL_EXT_blend_func_separate GL_EXT_blend_minmax
+GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_texture
+GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB GL_EXT_gpu_program_parameters
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_pixels
+GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color
+GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_wrap
+GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D
+GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map
+GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object
+GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_vertex_array
+GL_KTX_buffer_region GL_NV_blend_square GL_NV_texgen_reflection
+GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod
+GL_WIN_swap_hint WGL_EXT_swap_control
+GL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 8
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+MODE: 5, 640 x 480 fullscreen hz:60
+GAMMA: software w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: gl_nearest
+picmip: 5
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+Forcing glFinish
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 485 milli seconds
+UI menu load time = 247 milli seconds
+34 bots parsed
+Loading dll file cgame
+not loading voice chats
+stitched 0 LoD cracks
+...loaded 2606 faces, 254 meshes, 34 trisurfs, 0 flares
+trying ui/assets/3_cursor2.TGA...
+RE_RegisterFont: FreeType code not available
+UI menu load time = 215 milli seconds
+WARNING: couldn't open music file music/track06.ogg
+CL_InitCGame:  2.44 seconds
+140 msec to draw all images
+Com_TouchMemory: 0 msec
+PunkBuster Client: PnkBstrB service installed and started successfully
+poc! daySRKT was electrocuted by *iON aNtii
+PunkBuster Client: WARNING: PB Kicks for Non-standard Characters and Level 1
+PB Restrictions on this Server
+PunkBuster Client: PB Server assigned guid = d0494820d734868e8f1b9957aa07ad54
+PunkBuster Client: Receiving from PB Server (l v1.645 | A1354 C2.177)
+Vote passed.
+]\say lol would you like to fuck off
+fuv.. chentr almost dodged Poy59's rocket
+Poy59 was kicked
+*iON aNtii almost dodged poc! daySRKT's rocket
+]\say lol would you like to fuck off
+poc! daySRKT ate fuv.. chentr's rocket
+]\cg_teamChat
+    cg_teamChatsOnly
+    cg_teamChatTime
+    cg_teamChatHeight
+]\cg_teamChat
+    cg_teamChatsOnly
+    cg_teamChatTime
+    cg_teamChatHeight
+]\cg_teamChatsOnly 0
+Poy59 connected
+fuv.. chentr almost dodged poc! daySRKT's rocket
+Poy59 entered the game
+ fuv.. chentr: #qlpickup.de
+poc! daySRKT was electrocuted by *iON aNtii
+]\say this is not a priv server
+ coda: this is not a priv server
+ *iON aNtii: No
+fuv.. chentr almost dodged Poy59's rocket
+sG HEFFALUMP connected
+ *iON aNtii: But it gets filled in 2 sec
+ *iON aNtii: By pickup players
+ poc! daySRKT: :>
+poc! daySRKT was railed by fuv.. chentr
+sG HEFFALUMP entered the game
+ *iON aNtii: And then you will get kicked
+fuv.. chentr was gunned down by Poy59
+*iON aNtii ate poc! daySRKT's rocket
+ *iON aNtii: With no chance of return
+*ION clean entered the game
+]\say who gives a toss - you kick me again and you will lose your beta
+account
+ coda: who gives a toss - you kick me again and you will lose your beta
+account
+*ION clean called a vote.
+poc! daySRKT was railed by sG HEFFALUMP
+ *iON aNtii: Haha
+ *iON aNtii: gg
+ *iON aNtii: Do it
+ *iON aNtii: Bitch!
+ *iON aNtii: I envy u!
+fuv.. chentr was railed by poc! daySRKT
+You may not participate in this vote.
+Poy59 was electrocuted by *iON aNtii
+poc! daySRKT was railed by sG HEFFALUMP
+<QUAKE LIVE> mpepe is now online.
+ *iON aNtii: John Carmac is my father
+Vote passed.
+*ION clean was railed by sG HEFFALUMP
+coda was kicked
+RE_Shutdown( 0 )
+Hunk_Clear: reset the hunk ok
+----- R_Init -----
+
+GL_VENDOR: ATI Technologies Inc.
+GL_RENDERER: ATI Mobility Radeon HD 3470
+GL_VERSION: 2.1.7276 Release
+GL_EXTENSIONS: GL_AMD_performance_monitor GL_ARB_depth_texture
+GL_ARB_draw_buffers GL_ARB_fragment_program GL_ARB_fragment_shader
+GL_ARB_multisample GL_ARB_multitexture GL_ARB_occlusion_query
+GL_ARB_pixel_buffer_object GL_ARB_point_parameters GL_ARB_point_sprite
+GL_ARB_shader_objects GL_ARB_shading_language_100 GL_ARB_shadow
+GL_ARB_shadow_ambient GL_ARB_texture_border_clamp GL_ARB_texture_compression
+GL_ARB_texture_cube_map GL_ARB_texture_env_add GL_ARB_texture_env_combine
+GL_ARB_texture_env_crossbar GL_ARB_texture_env_dot3 GL_ARB_texture_float
+GL_ARB_texture_mirrored_repeat GL_ARB_texture_non_power_of_two
+GL_ARB_texture_rectangle GL_ARB_transpose_matrix GL_ARB_vertex_buffer_object
+GL_ARB_vertex_program GL_ARB_vertex_shader GL_ARB_window_pos
+GL_ATI_draw_buffers GL_ATI_envmap_bumpmap GL_ATI_fragment_shader
+GL_ATI_meminfo GL_ATI_separate_stencil GL_ATI_texture_compression_3dc
+GL_ATI_texture_env_combine3 GL_ATI_texture_float GL_EXT_bgra
+GL_EXT_blend_color GL_EXT_blend_func_separate GL_EXT_blend_minmax
+GL_EXT_blend_subtract GL_EXT_compiled_vertex_array GL_EXT_copy_texture
+GL_EXT_draw_range_elements GL_EXT_fog_coord GL_EXT_framebuffer_object
+GL_EXT_framebuffer_sRGB GL_EXT_gpu_program_parameters
+GL_EXT_multi_draw_arrays GL_EXT_packed_depth_stencil GL_EXT_packed_pixels
+GL_EXT_point_parameters GL_EXT_rescale_normal GL_EXT_secondary_color
+GL_EXT_separate_specular_color GL_EXT_shadow_funcs GL_EXT_stencil_wrap
+GL_EXT_subtexture GL_EXT_texgen_reflection GL_EXT_texture3D
+GL_EXT_texture_compression_s3tc GL_EXT_texture_cube_map
+GL_EXT_texture_edge_clamp GL_EXT_texture_env_add GL_EXT_texture_env_combine
+GL_EXT_texture_env_dot3 GL_EXT_texture_filter_anisotropic
+GL_EXT_texture_lod_bias GL_EXT_texture_mirror_clamp GL_EXT_texture_object
+GL_EXT_texture_rectangle GL_EXT_texture_sRGB GL_EXT_vertex_array
+GL_KTX_buffer_region GL_NV_blend_square GL_NV_texgen_reflection
+GL_SGIS_generate_mipmap GL_SGIS_texture_edge_clamp GL_SGIS_texture_lod
+GL_WIN_swap_hint WGL_EXT_swap_control
+GL_MAX_TEXTURE_SIZE: 8192
+GL_MAX_ACTIVE_TEXTURES_ARB: 8
+
+PIXELFORMAT: color(32-bits) Z(24-bit) stencil(8-bits)
+MODE: 5, 640 x 480 fullscreen hz:60
+GAMMA: software w/ 0 overbright bits
+CPU: Intel Pentium III
+rendering primitives: single glDrawElements
+texturemode: gl_nearest
+picmip: 5
+texture bits: 32
+multitexture: enabled
+compiled vertex arrays: enabled
+texenv add: enabled
+compressed textures: disabled
+Forcing glFinish
+Initializing Shaders
+----- finished R_Init -----
+Sound memory manager started
+Loading dll file ui
+UI menu load time = 480 milli seconds
+UI menu load time = 248 milli seconds
+34 bots parsed
+PunkBuster Client: Not Connected to a Server
+WARNING: couldn't load sound: sound/misc/tim_pump.wav
+WARNING: could not find sound/misc/tim_pump.wav - using default
+]\logfile
+"logfile" is:"0" default:"0"
+PunkBuster Client: PnkBstrB service installed and started successfully
+]\con
+    connect
+    confirmOrder
+    configstrings
+    condump
+    con_notifytime
+    console
+<QUAKE LIVE> mazling is now online.
+]\condump c:\kicking.txt
+Dumped console text to c:\kicking.txt.
+ERROR: couldn't open.
+]\condump kicking.txt
+Dumped console text to kicking.txt.
+
